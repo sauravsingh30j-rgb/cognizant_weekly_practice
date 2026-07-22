@@ -1,0 +1,17 @@
+.student-box{
+    text-align:center;
+    margin-top:40px;
+}
+
+h1{
+    color:brown;
+}
+
+strong{
+    color:blue;
+}
+
+span{
+    color:crimson;
+    font-weight:bold;
+}
